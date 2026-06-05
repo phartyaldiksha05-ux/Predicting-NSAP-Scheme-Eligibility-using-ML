@@ -20,7 +20,7 @@ export default function Footer({ strings }) {
         <div className="space-y-3">
           <p className="text-sm uppercase tracking-[0.3em] text-slate-400">{strings?.connectTitle || "Connect"}</p>
           <div className="space-y-2 text-sm text-slate-300">
-            <a className="inline-flex items-center gap-2 text-slate-200 transition hover:text-white" href="https://github.com/your-org/nsap-dashboard" target="_blank" rel="noreferrer">
+            <a className="inline-flex items-center gap-2 text-slate-200 transition hover:text-white" href="https://github.com/phartyaldiksha05-ux/Predicting-NSAP-Scheme-Eligibility-using-ML" target="_blank" rel="noreferrer">
               <Github className="h-4 w-4" /> {strings?.github || "GitHub repository"}
             </a>
             <a className="inline-flex items-center gap-2 text-slate-200 transition hover:text-white" href="mailto:info@nsap.gov.in">
