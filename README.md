@@ -124,7 +124,7 @@ npm run dev
 ---
 
 ## 👩‍💻 Team
-
-- **Institution:** [Govind Ballabh Pant Institute of Engineering & Technology]
+-**Name:** Diksha Phartyal
+- **Institution:** Govind Ballabh Pant Institute of Engineering & Technology
 - **Program:** IBM SkillsBuild University Engagements — AICTE 2026
 - **Problem Statement:** No. 34 — Predicting NSAP Scheme Eligibility using ML
